@@ -1,6 +1,5 @@
 <include>
   <!-- Preprocessor Variables
-       These are introduced when configuration strings must be consistent across modules. 
        NOTICE: YOU CAN NOT COMMENT OUT AN X-PRE-PROCESS line, Remove the line instead.
        
        WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING 
